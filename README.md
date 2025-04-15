@@ -34,6 +34,6 @@ http://localhost:5000/
 
 ✅ You will get a JSON response like:
 {
-  "timestamp": "2025-04-14T14:10:05.123456",
-  "ip": "127.0.0.1"
+  "ip": "172.17.0.1",
+  "timestamp": "2025-04-15T16:14:27.350373"
 }
