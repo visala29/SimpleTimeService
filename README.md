@@ -26,10 +26,14 @@ Default output format: json
 
 ### Steps to Deploy
 create a directory ex: app
+
 mkdir app
+
 cd app
 # 1. Clone the Repository
 git clone https://github.com/visala29/particle41.git 
+
+cd particle41
 
 checkout to terraform branch
 
