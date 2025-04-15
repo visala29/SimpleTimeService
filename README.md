@@ -47,6 +47,7 @@ ex: container_image = "visala29/my-app:latest"
 # 2. Build the Docker Image
 
 docker build -t "your-dockerhub-username"/"your-image-name" .
+
 docker push "your-dockerhub-username"/"your-image-name"
 
 # 3. creating infrastructure using Terraform
