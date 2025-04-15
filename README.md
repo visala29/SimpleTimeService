@@ -19,9 +19,8 @@ cd simpletime service
 
 git clone https://github.com/visala29/particle41.git
 
+cd particle41
 checkout to simpletimeservice branch
-
-open your folder in vscode editor
 
 ### 2. Build the Docker Image
 docker build -t simpletimeservice .
