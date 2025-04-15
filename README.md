@@ -19,9 +19,13 @@ You must authenticate to AWS **before running Terraform**.
 aws configure
 
 It will task the following details, give your access key and secret key
-AWS Access Key ID: <your-access-key>
-AWS Secret Access Key: <your-secret-key>
+
+AWS Access Key ID: "your-access-key"
+
+AWS Secret Access Key: "your-secret-key"
+
 Default region name: us-east-1
+
 Default output format: json
 
 ### Steps to Deploy
