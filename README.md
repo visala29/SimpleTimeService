@@ -1,6 +1,6 @@
 # Task 2 - Terraform and Cloud: create the infrastructure to host your container.
 
-## ✅ Prerequisites
+## Prerequisites
 
 Please ensure the following are installed on your local machine:
 
@@ -10,11 +10,11 @@ Please ensure the following are installed on your local machine:
 - Access to an AWS account with sufficient permissions
 - Make sure your docker is running while doing this entire process
 
-## 🔐 AWS Authentication
+## AWS Authentication
 
 You must authenticate to AWS **before running Terraform**.
 
-### Option 1: Using AWS CLI or using command prompt
+### Using AWS CLI or using command prompt
 
 aws configure
 
@@ -28,7 +28,7 @@ Default region name: us-east-1
 
 Default output format: json
 
-### Steps to Deploy
+### Create a directory
 create a directory ex: app
 
 mkdir app
