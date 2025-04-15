@@ -1,1 +1,1 @@
-container_image = "visala29/my-app:latest"
+container_image = "your-dockerhub-username/your-image-name:latest"
