@@ -11,18 +11,17 @@ Make sure you have these installed:
 - Make sure your docker is running while doing this entire process
 
 ### 1. Clone the Repository
-
-git clone https://github.com/visala29/particle41.git
-
-checkout to simpletimeservice branch
-
 create a folder 
 
 example: mkdir simpletimeservice
 
 cd simpletime service
 
-open the folder in vscode editor
+git clone https://github.com/visala29/particle41.git
+
+checkout to simpletimeservice branch
+
+open your folder in vscode editor
 
 ### 2. Build the Docker Image
 docker build -t simpletimeservice .
