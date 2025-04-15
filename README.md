@@ -30,9 +30,13 @@ mkdir app
 cd app
 # 1. Clone the Repository
 git clone https://github.com/visala29/particle41.git 
+
 checkout to terraform branch
+
 open the files in vscpde editor and 
+
 update your <your-dockerhub-username>/<your-image-name>/latest in terraform.tfvar file
+
 ex: container_image = "visala29/my-app:latest"
 
 
