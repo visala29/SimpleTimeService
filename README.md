@@ -39,7 +39,7 @@ checkout to terraform branch
 
 open the files in vscpde editor and 
 
-update your "your-dockerhub-username"/"your-image-name"/latest in terraform.tfvar file
+update your "your-dockerhub-username"/"your-image-name":latest in terraform.tfvar file
 
 ex: container_image = "visala29/my-app:latest"
 
