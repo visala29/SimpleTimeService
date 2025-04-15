@@ -1,12 +1,5 @@
 # Task 1 - Minimalist Application Development / Docker / Kubernetes
 
-## 📦 Features
-
-- Returns current timestamp and requester IP address.
-- Lightweight Python Flask app.
-- Runs as a *non-root user* in Docker.
-- Docker image ready to be deployed on Kubernetes / ECS / EKS / Lambda etc.
-
 ## 🔧 Prerequisites
 
 Make sure you have these installed:
@@ -14,13 +7,17 @@ Make sure you have these installed:
 - [Python](https://www.python.org/downloads/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [Git](https://git-scm.com/downloads)
-- [VS Code (Optional)](https://code.visualstudio.com/)
-
+- [VS Code](https://code.visualstudio.com/)
+- Make sure your docker is running while doing this entire process
 
 ### 1. Clone the Repository
 
 git clone https://github.com/visala29/particle41.git
 checkout to simpletimeservice branch
+create a folder 
+example: mkdir simpletimeservice
+cd simpletime service
+open the folder in vscode editor
 
 ### 2. Build the Docker Image
 docker build -t simpletimeservice .
