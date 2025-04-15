@@ -41,7 +41,7 @@ cd particle41
 
 checkout to terraform branch
 
-open the files in vscpde editor and 
+open the files in vscode editor and 
 
 update your "your-dockerhub-username"/"your-image-name":latest in terraform.tfvar file
 
