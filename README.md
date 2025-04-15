@@ -20,7 +20,7 @@ Make sure you have these installed:
 ### 1. Clone the Repository
 
 git clone https://github.com/visala29/particle41.git
-cd SimpleTimeService
+checkout to simpletimeservice branch
 
 ### 2. Build the Docker Image
 docker build -t simpletimeservice .
