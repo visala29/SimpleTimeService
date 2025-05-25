@@ -17,7 +17,7 @@ example: mkdir simpletimeservice
 
 cd simpletime service
 
-git clone https://github.com/visala29/particle41.git
+git clone https://github.com/visala29/SimpleTimeService.git
 
 cd particle41
 
